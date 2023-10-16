@@ -51,7 +51,6 @@ export function CreateBattery(data: Battery) {
 }
 
 
-
 const inverter = z
   .object({
     dcVoltage: volts,
